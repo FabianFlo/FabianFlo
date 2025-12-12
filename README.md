@@ -34,19 +34,9 @@ Construyo sistemas **escalables y eficientes**
 
 </div>
 
----
-
-## GitHub Dashboard
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=FabianFlo&show_icons=true&theme=midnight-purple&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabianFlo&layout=compact&theme=midnight-purple&hide_border=true"/>
-<img height="165" src="https://streak-stats.demolab.com/?user=FabianFlo&theme=midnight-purple&hide_border=true" />
-
-<br>
-
-</div>
 
 
-```md
+
+
+
+
